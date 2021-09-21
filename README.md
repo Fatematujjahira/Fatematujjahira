@@ -2,13 +2,15 @@
 #### MERN Stack Developer
 ![MERN Stack Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-Hello, This is Abrar Husam Fahim. I am a MERN stack developer in Bangladesh. Contact Me:
+Hello, This is Fatema Tuj Jahira. I am a MERN stack developer in Bangladesh. Contact Me:https://www.facebook.com/fatematujzohra.zohra.167/
 
 Skills: REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
-- 💬 Ask me about REACT / JS / HTML / CSS 
+- 🌱 I’m currently learning Programming Hero 
+- 💬 Ask me about REACT / JS / HTML / CSS/node.js 
 - 📫 How to reach me:  zohrafatema357@gmail.com 
+- ⚡ Fun fact: I think I'm funny 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Fatematujjahira)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Fatematujjahira/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/fatematujzohra.zohra.167/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/fatema-jahira)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/16967266)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/)  
