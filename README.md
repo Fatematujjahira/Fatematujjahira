@@ -12,9 +12,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/fatema tuj jahira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fatema tuj jahira" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/fatema-tuj-jahira-03558a216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fatema tuj jahira" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16967266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16967266" height="30" width="40" /></a>
-<a href="https://fb.com/fatema jahira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fatema jahira" height="30" width="40" /></a>
+<a href="https://www.facebook.com/fatematujzohra.zohra.167/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fatema jahira" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
