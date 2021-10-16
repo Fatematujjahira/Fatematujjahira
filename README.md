@@ -1,6 +1,6 @@
 ### Hi there 👋, Hey, I'm Fatema Tuj Jahira
 #### MERN Stack Developer
-![MERN Stack Developer](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
+![MERN Stack Developer](https://miro.medium.com/max/1400/0*K2WLMTExLyida7OR.gif)
 
 Hello, This is Fatema Tuj Jahira. I am a MERN stack developer in Bangladesh. Contact Me:https://www.facebook.com/fatematujzohra.zohra.167/
 
